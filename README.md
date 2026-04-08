@@ -1,7 +1,6 @@
 # Hello there! ✨
-I am a software developer with basic to intermediate knowledge in other programming languages.
+I am a software developer (Soon to be engineer) with basic to intermediate knowledge in other programming languages.
 
-For business and other inquiries:
 ![Discord](https://img.shields.io/badge/%40Hymandois%20on%20Discord-black?logo=discord)
 
 <hr>
